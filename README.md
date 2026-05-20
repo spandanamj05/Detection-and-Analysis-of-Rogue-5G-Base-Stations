@@ -36,6 +36,10 @@ The system monitors abnormal network behavior and generates alerts for suspiciou
 ping 192.168.x.x
 mongo
 python3 detect.py
+
+## 🎥 Project Demonstration
+
+▶️ [Watch Demo Video](https://www.youtube.com/watch?v=EdjKVT7wiOE)
 ---
 
 ## Objective
