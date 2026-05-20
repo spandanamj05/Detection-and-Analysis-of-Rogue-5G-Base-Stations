@@ -26,6 +26,16 @@ The system monitors abnormal network behavior and generates alerts for suspiciou
 - Network activity logging
 - Security-focused simulation
 
+## Environment Setup
+- Ubuntu VM
+- MongoDB
+- Python
+- VirtualBox
+- Simulated 5G network environment
+- sudo systemctl start mongod
+ping 192.168.x.x
+mongo
+python3 detect.py
 ---
 
 ## Objective
